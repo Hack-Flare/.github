@@ -1,6 +1,11 @@
 ## Hi there 👋
 Welcome to Hackflare!
 
+We're a community of developers working on open source projects. Notibly [the main hackflare project](https://github.com/Hack-Flare/hackflare).
+
+## Contributing
+
+Each project follows a standard CONTRIBUTING.md file, it is pretty simple to use and follow! Any and all contributions are gladly accepted, and we encourage you to contribute in any way you can!
 
 <!--
 
