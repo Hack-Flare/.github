@@ -1,4 +1,4 @@
-# Contributing to Hackflare
+# Contributing
 
 Thank you for your interest in contributing!
 
